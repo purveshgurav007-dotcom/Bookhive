@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html Lang="eng">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+        <!--SEO meta tags-->
+        <title>BookHive-India's Favourite Online Bookstore</title>
+        <meta name="description" content="Buy books online at BookHive. Indian authors, bestsellers, fiction, education books. Free delivery across India.">
+        <meta name="keywords" content="books, online bookstore, indian authors, buy books online">
+
+        <!--Open Graph for social media-->
+        <meta property="og:title" content="BookHive - Online Bookstore">
+        <meta property="og:description" content="India's favourite place to buy books online">
+        <meta property="og:image" content="image/og-banner.jpg">
+
+        <!--Favicon-->
+        <link rel="icon" href="images/favicon.ico">
+    <head>
+        <body>
+            <header>
+                <h1>Bookhive</h1>
+                
+                <nav>
+                    <a href="index.html">Home</a>
+                    <a href="books.html">Books</a>
+                    <a href="about.html">About</a>
+                    <a href="contact.html">Contact</a>
+                    <a href="cart.html">Cart</a>
+                    <a href="login.html">Login</a>
+                </nav>
+            </header>
+
+
+
+        </body>
+        </html>
